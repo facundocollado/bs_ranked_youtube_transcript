@@ -1,7 +1,3 @@
-Aquí tienes un **README.md** bien estructurado para tu repositorio `bs_ranked_youtube_transcript`, listo para subir a GitHub:
-
----
-
 # 📺 Brawl Stars Ranked YouTube Transcript → Vertex AI RAG
 
 Este proyecto permite **ingerir un video de YouTube**, **transcribirlo**, **procesarlo con un LLM (Gemini)** para generar un resumen, y finalmente **indexarlo en un RAG de Vertex AI** para que pueda ser consultado más adelante.
@@ -138,7 +134,3 @@ MIT License.
 ## 👤 Autor
 
 **Facundo Collado**
-
----
-
-¿Quieres que además te genere un **badge de despliegue** (Cloud Run + Build Status) para agregarlo al README y quede más profesional?
