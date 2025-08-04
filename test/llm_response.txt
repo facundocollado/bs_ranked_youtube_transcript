@@ -1,0 +1,96 @@
+{
+    "summary": "The video ranks Brawl Stars brawlers from F to S tier, discussing their effectiveness in the current meta. Brawlers like Grom and Jesse are criticized for poor performance, while characters such as Ali and Draco are highlighted as top-tier due to their powerful abilities. The analysis covers various brawlers' strengths and weaknesses, emphasizing the importance of hypercharges and situational effectiveness in competitive play.",
+    "key_topics": [
+        "Brawler rankings from F to S tier",
+        "Impact of hypercharges on brawler performance",
+        "Situational effectiveness in competitive play"
+    ],
+    "brawlers_mentioned": [
+        {
+            "name": "Grom",
+            "context_in_transcript": "Grom is placed in F tier due to poor performance in pro play, struggling against brawlers with strong hypercharges.",
+            "relevant_tips_or_strategies": "Avoid using Grom in competitive settings; he can't effectively deal with pressure."
+        },
+        {
+            "name": "Sam",
+            "context_in_transcript": "Sam is mentioned as remaining in F tier due to his hypercharge taking too long to be beneficial.",
+            "relevant_tips_or_strategies": "Avoid using Sam in most competitive scenarios."
+        },
+        {
+            "name": "Emz",
+            "context_in_transcript": "Emz is criticized for being easy to kill, despite a damage buff.",
+            "relevant_tips_or_strategies": "Emz may seem strong at low ranks but is a liability in pro play."
+        },
+        {
+            "name": "Chuck",
+            "context_in_transcript": "Chuck is placed in D tier, good only in heist but otherwise ineffective.",
+            "relevant_tips_or_strategies": "Use Chuck only in specific game modes like heist."
+        },
+        {
+            "name": "Edgar",
+            "context_in_transcript": "Edgar has slipped down the meta and struggles in 1v1 situations.",
+            "relevant_tips_or_strategies": "Avoid relying on Edgar in current meta matchups."
+        },
+        {
+            "name": "Penny",
+            "context_in_transcript": "Penny is in D tier, not seen in pro play for months.",
+            "relevant_tips_or_strategies": "Consider other brawlers over Penny for competitive play."
+        },
+        {
+            "name": "Rosa",
+            "context_in_transcript": "Rosa received a damage buff but still lacks good matchups.",
+            "relevant_tips_or_strategies": "Rosa is not a strong pick in the current meta."
+        },
+        {
+            "name": "Colt",
+            "context_in_transcript": "Colt is not used in pro play, indicating poor performance.",
+            "relevant_tips_or_strategies": "Avoid Colt in competitive settings."
+        },
+        {
+            "name": "Gale",
+            "context_in_transcript": "Gale's supercharge rate buff helped slightly, but he remains in D tier.",
+            "relevant_tips_or_strategies": "Use Gale cautiously; he still struggles to charge his hypercharge."
+        },
+        {
+            "name": "Surge",
+            "context_in_transcript": "Surge has dropped off in the meta due to being too squishy.",
+            "relevant_tips_or_strategies": "Avoid using Surge in current competitive play."
+        },
+        {
+            "name": "Pam",
+            "context_in_transcript": "Pam needs a rework as she is outclassed in most scenarios.",
+            "relevant_tips_or_strategies": "Pam is not a reliable pick in the current meta."
+        },
+        {
+            "name": "Leon",
+            "context_in_transcript": "Leon is underrated in bounty but outclassed in other modes.",
+            "relevant_tips_or_strategies": "Use Leon strategically in bounty."
+        },
+        {
+            "name": "Nita",
+            "context_in_transcript": "Nita has fallen off due to being ignored in favor of tanks.",
+            "relevant_tips_or_strategies": "Consider other brawlers over Nita in heist."
+        },
+        {
+            "name": "Eve",
+            "context_in_transcript": "Eve is a safe draft pick but not exceptional.",
+            "relevant_tips_or_strategies": "Use Eve as a safe option in drafts."
+        },
+        {
+            "name": "Mr. P",
+            "context_in_transcript": "Mr. P's hypercharge rate bug has improved his viability.",
+            "relevant_tips_or_strategies": "Utilize Mr. P while his bug is active."
+        },
+        {
+            "name": "Mandy",
+            "context_in_transcript": "Mandy excels in bounty and knockout due to her hypercharge.",
+            "relevant_tips_or_strategies": "Pick Mandy in bounty and knockout for her strong performance."
+        },
+        {
+            "name": "Draco",
+            "context_in_transcript": "Draco's hypercharge is considered broken, making him a top-tier brawler.",
+            "relevant_tips_or_strategies": "Use Draco for his powerful hypercharge in competitive play."
+        }
+    ],
+    "meta_notes": "The current meta favors brawlers with strong hypercharges and versatility. Characters like Ali and Draco are top picks, while others like Grom and Jesse are struggling. Focus on brawlers that can adapt to various game modes and have strong damage outputs to maximize wins."
+}

@@ -1,0 +1,36 @@
+# Ignorar entorno virtual local
+venv/
+.env
+.env.*
+!.env.example
+
+# Archivos de cache de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pytest_cache/
+*.mypy_cache/
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de logs
+*.log
+
+# Git y configuración local
+.git
+.gitignore
+
+# Documentación temporal
+README.md~
+*.bak
+
+# Archivos de desarrollo o editor
+.vscode/
+.idea/
+
+# Docker layers cache
+*.tar
+*.old

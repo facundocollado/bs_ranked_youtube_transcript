@@ -1,5 +1,14 @@
-
 flask
 youtube-transcript-api
-google-cloud-aiplatform
+google-cloud-aiplatform==1.104.0
 vertexai
+python-dotenv
+gunicorn
+langchain
+langchain_community==0.3.27
+langchain-openai==0.3.28
+openai==1.97.1
+pytest
+beautifulsoup4
+jsonlines
+langfuse

@@ -1,0 +1,52 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Run Flask (Local)",
+      "type": "debugpy",
+      "request": "launch",
+      "program": "${workspaceFolder}/fetch_transcribe_rag/main.py",
+      "envFile": "${workspaceFolder}/fetch_transcribe_rag/.env",
+      "console": "integratedTerminal"
+    },
+    {
+      "name": "Python: pytest test/test.py",
+      "type": "debugpy",
+      "request": "launch",
+      "args": [
+        "test/test.py",
+        "-k",
+        // "test_transcribe_video_and_save",
+        // "test_llm_response"
+        // "test_rag_get_corpus"
+        // "test_create_rag_storage_corpus"
+        // "test_extract_video_title"
+        // "test_extract_video_publish_date"
+        // "test_get_or_create_corpus"
+        // "test_process_video_dict"
+        "test_query_rag_corpus"
+      ],
+      "module": "pytest",
+      "console": "integratedTerminal",
+      "justMyCode": false
+    },
+    {
+      "name": "Run Test (Local via venv)",
+      "type": "debugpy",
+      "request": "launch",
+      "program": "${workspaceFolder}/test.py",
+      "envFile": "${workspaceFolder}/.env",
+      "console": "integratedTerminal"
+    },
+    {
+      "name": "Run with Docker",
+      "type": "docker",
+      "request": "launch",
+      "platform": "python",
+      "dockerServerReadyAction": {
+        "uriFormat": "http://localhost:8080",
+        "containerName": "bs-local"
+      }
+    }
+  ]
+}
